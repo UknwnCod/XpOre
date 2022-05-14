@@ -1,0 +1,26 @@
+#╔╗─╔╗──╔╗───────────────╔═══╗────╔╗
+#║║─║║──║║───────────────║╔═╗║────║║
+#║║─║╠═╗║║╔╦═╗╔══╦╗╔╗╔╦═╗║║─╚╬══╦═╝║
+#║║─║║╔╗╣╚╝╣╔╗╣╔╗║╚╝╚╝║╔╗╣║─╔╣╔╗║╔╗║
+#║╚═╝║║║║╔╗╣║║║╚╝╠╗╔╗╔╣║║║╚═╝║╚╝║╚╝║
+#╚═══╩╝╚╩╝╚╩╝╚╩══╝╚╝╚╝╚╝╚╩═══╩══╩══╝
+
+#EN: This plugin allow you to add xp orb drop on a break block !
+#FR: Ce plugin vous permet d'ajouter un drop d'xp lorsqu'un bloc est cassé !
+
+block: 57  # Id of the block
+meta: 0  # Meta of the block
+
+xp-amount: 55  # Xp amount when the block is break
+
+
+#Documentation:
+
+# 1 level = 7 xp amount
+# 5 level = 55 xp amount
+# 15 level = 315 xp amount
+# 30 level =  1395 xp amount
+
+# More documentation here : https://www.digminecraft.com/getting_started/experience.php
+
+#                                                                                                                   </>
